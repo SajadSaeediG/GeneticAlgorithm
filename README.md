@@ -1,4 +1,4 @@
-# Project Title
+# Genetic Algorithms
 
 This is a simple MATLAB implementation of genetic algorithms (GA). Two demos are shown here: First one finds the maximum point of a single-input function. It will show the evolution of the populations and the maximum point. The second one solves the Tower of Hanoi using GA. To run the Tower of Hanoi, follow the instructions inside its folder.
 
